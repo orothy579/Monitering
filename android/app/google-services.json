@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818234225160",
+    "project_id": "dontgas-836cc",
+    "storage_bucket": "dontgas-836cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818234225160:android:df0d7d1bca5df9fa8797bd",
+        "android_client_info": {
+          "package_name": "com.example.dontgas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYF7X6a2_FqWyMKKfsbbyKfBu2pkhb87k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

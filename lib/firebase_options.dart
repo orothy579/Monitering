@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAYF7X6a2_FqWyMKKfsbbyKfBu2pkhb87k',
-    appId: '1:818234225160:android:df0d7d1bca5df9fa8797bd',
-    messagingSenderId: '818234225160',
-    projectId: 'dontgas-836cc',
-    storageBucket: 'dontgas-836cc.appspot.com',
+    apiKey: 'AIzaSyDYtOnaH4qfZEunTH5cXb230gkjB-7hspU',
+    appId: '1:45720604284:android:9c7189299ce4be93fac3f9',
+    messagingSenderId: '45720604284',
+    projectId: 'dontgas1-aaa7a',
+    storageBucket: 'dontgas1-aaa7a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBcpbuYACXvqVQ5pGjYn8T9ylkYRB5FUPY',
-    appId: '1:818234225160:ios:2b7e5eeded7f9f6a8797bd',
-    messagingSenderId: '818234225160',
-    projectId: 'dontgas-836cc',
-    storageBucket: 'dontgas-836cc.appspot.com',
-    iosBundleId: 'com.example.dontgas',
+    apiKey: 'AIzaSyADehIgiRUghj_H2RfOxVsoz5uirku99WE',
+    appId: '1:45720604284:ios:df1738975e17c0b8fac3f9',
+    messagingSenderId: '45720604284',
+    projectId: 'dontgas1-aaa7a',
+    storageBucket: 'dontgas1-aaa7a.appspot.com',
+    iosBundleId: 'com.capstone.dontgas',
   );
 }
